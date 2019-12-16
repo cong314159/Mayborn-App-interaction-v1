@@ -1,0 +1,17 @@
+D:\dev\Apps\mayborn_kinect_music_app_1\mayborn_kinect_music_app_1\obj\Debug\MainWindow.g.cs
+D:\dev\Apps\mayborn_kinect_music_app_1\mayborn_kinect_music_app_1\obj\Debug\App.g.cs
+D:\dev\Apps\mayborn_kinect_music_app_1\mayborn_kinect_music_app_1\obj\Debug\mayborn_kinect_music_app_1_MarkupCompile.cache
+D:\dev\Apps\mayborn_kinect_music_app_1\mayborn_kinect_music_app_1\obj\Debug\mayborn_kinect_music_app_1_MarkupCompile.lref
+D:\dev\Apps\mayborn_kinect_music_app_1\mayborn_kinect_music_app_1\obj\Debug\MainWindow.baml
+D:\dev\Apps\mayborn_kinect_music_app_1\mayborn_kinect_music_app_1\obj\Debug\mayborn_kinect_music_app_1.g.resources
+D:\dev\Apps\mayborn_kinect_music_app_1\mayborn_kinect_music_app_1\obj\Debug\mayborn_kinect_music_app_1.pdb
+D:\dev\Apps\mayborn_kinect_music_app_1\mayborn_kinect_music_app_1\bin\Debug\mayborn_kinect_music_app_1.exe.config
+D:\dev\Apps\mayborn_kinect_music_app_1\mayborn_kinect_music_app_1\bin\Debug\mayborn_kinect_music_app_1.exe
+D:\dev\Apps\mayborn_kinect_music_app_1\mayborn_kinect_music_app_1\bin\Debug\mayborn_kinect_music_app_1.pdb
+D:\dev\Apps\mayborn_kinect_music_app_1\mayborn_kinect_music_app_1\bin\Debug\Microsoft.Kinect.dll
+D:\dev\Apps\mayborn_kinect_music_app_1\mayborn_kinect_music_app_1\bin\Debug\Microsoft.Kinect.xml
+D:\dev\Apps\mayborn_kinect_music_app_1\mayborn_kinect_music_app_1\obj\Debug\mayborn_kinect_music_app_1.Properties.Resources.resources
+D:\dev\Apps\mayborn_kinect_music_app_1\mayborn_kinect_music_app_1\obj\Debug\mayborn_kinect_music_app_1.csproj.GenerateResource.cache
+D:\dev\Apps\mayborn_kinect_music_app_1\mayborn_kinect_music_app_1\obj\Debug\mayborn_kinect_music_app_1.exe
+D:\dev\Apps\mayborn_kinect_music_app_1\mayborn_kinect_music_app_1\obj\Debug\mayborn_kinect_music_app_1.csprojAssemblyReference.cache
+D:\dev\Apps\mayborn_kinect_music_app_1\mayborn_kinect_music_app_1\obj\Debug\mayborn_kinect_music_app_1.csproj.CopyComplete

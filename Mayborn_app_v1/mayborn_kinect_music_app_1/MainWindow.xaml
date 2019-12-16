@@ -1,0 +1,30 @@
+﻿<Window x:Class="mayborn_kinect_music_app_1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:mayborn_kinect_music_app_1"
+        mc:Ignorable="d"
+        Title="Mayborn_Music_App" Height="480" Width="720"
+        Closing="Window_Closing">
+    <Window.Resources>
+        <SolidColorBrush x:Key="BaylorGreen" Color="#003015"/>
+        <SolidColorBrush x:Key="BaylorGold" Color="#FFBC19"/>
+    </Window.Resources>
+    <Grid Margin="10 10 10 10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <!--<RowDefinition Height="Auto"/>-->
+        </Grid.RowDefinitions>
+
+        <TextBlock Grid.Row="0" Margin="0 0 0 0" HorizontalAlignment="Right" VerticalAlignment="Bottom" Foreground="{StaticResource BaylorGreen}" FontFamily="Segoe UI" FontSize="18">Mayborn_Music_App</TextBlock>
+        <Image Grid.Row="0" Source="Images\Status.png" Stretch="None" HorizontalAlignment="Center" Margin="5 5 5 5" />
+        
+        <Viewbox Grid.Row="1" HorizontalAlignment="Center">
+            <!--<Image Source="{Binding irBitmap_ImageSource}" Stretch="UniformToFill" />-->
+            <Image Source="{Binding irBitmap_ImageSource}" Stretch="UniformToFill" />
+        </Viewbox>
+
+    </Grid>
+</Window>
